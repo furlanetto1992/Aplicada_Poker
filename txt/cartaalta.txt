@@ -1,0 +1,7 @@
+Spades;10;0
+Hearts;8;1
+Diamond;12;0
+Diamond;7;1
+Clubs;5;1
+Clubs;1;1
+Spades;3;1
