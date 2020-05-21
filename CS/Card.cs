@@ -48,7 +48,7 @@ namespace FelipeFurlanetto_ListaM2
         {
             string card_text = "Suit: " + suit;
             card_text += "\t Value: " + value;   
-            card_text += "\t Owner: " + get_o();
+            card_text += "\t Owner: " + owner;
             
             
             return  card_text;

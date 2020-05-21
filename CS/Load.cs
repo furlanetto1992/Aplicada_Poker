@@ -10,6 +10,7 @@ namespace FelipeFurlanetto_ListaM2
 		public static List<Card> load_hand()
 		{
 			Console.WriteLine("\nDigite o nome do arquivo");
+			Console.WriteLine("");
 			string path_file = Console.ReadLine();
 			List<Card> cards = new List<Card>();
 

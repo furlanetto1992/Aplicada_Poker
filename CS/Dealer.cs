@@ -15,9 +15,9 @@ namespace FelipeFurlanetto_ListaM2
             deck = new Stack<Card>();
             rand = new Random();
             
-            creat_deck();
-            shuffle();
-            set_deck();
+            creat_deck(); // cria um deck
+            shuffle(); // embaralha
+            set_deck(); // Define o deck
         }
 
         private void creat_deck()
@@ -28,7 +28,7 @@ namespace FelipeFurlanetto_ListaM2
             {
                 card = new Card();
                 card.set_v (i+1);
-                card.set_s("Clubs");
+                card.set_s("Clubs");                             
                 cards_list.Add(card);
                 
                 card = new Card();

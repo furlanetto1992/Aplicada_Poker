@@ -1,0 +1,7 @@
+Diamond;2;0
+Diamond;3;0
+Diamond;4;1
+Diamond;5;1
+Diamond;6;1
+Diamond;7;1
+Diamond;8;1

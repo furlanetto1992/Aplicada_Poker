@@ -1,7 +1,7 @@
-Spades;1;0
+Diamond;1;0
 Spades;2;0
-Spades;3;1
+Clubs;3;1
 Spades;4;1
-Spades;5;1
-Clubs;12;1
-Spades;10;1
+Hearts;5;1
+Clubs;6;1
+Spades;7;1

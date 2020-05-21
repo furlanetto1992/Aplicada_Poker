@@ -1,6 +1,6 @@
-Spades;10;0
+Spades;5;0
 Hearts;5;1
-Diamond;11;0
+Diamond;10;0
 Diamond;10;1
 Clubs;2;1
 Clubs;12;1

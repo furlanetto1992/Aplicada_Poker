@@ -35,16 +35,17 @@ namespace FelipeFurlanetto_ListaM2
 			
 			rank.count_values(); //conta quantidade de valores
 			//Console.WriteLine("Pair test");
-			rank.is_pair(); // verifica se é um par
-			rank.is_sequencia(); // verifica se é uma sequência
-			rank.is_naipesIguais(); // verifica se os naipes são iguais
+			
+			rank.is_sequencia(); // verifica se é uma sequência			
 			rank.is_cartaAlta(); // verifica e retorna a carta mais alta
 			rank.is_flush(); // verifica se há 5 cartas do mesmo naipe
 			rank.is_fullHouse(); // verifica se há três cartas do mesmo valor e duas outras diferentes de mesmo valor
 			rank.is_quadra(); // verifica se há quatro cartas de mesmo valor e uma carta kicker
-			rank.is_sFlush; // verifica se há 5 cartas em ordem numérica e se são todas do mesmo naipe
+			rank.is_sFlush(); // verifica se há 5 cartas em ordem numérica e se são todas do mesmo naipe
 			rank.is_trinca(); // verifica se há 3 cartas do mesmo valor
 			rank.is_twoPair(); // verifica se há duas cartas de um mesmo valor e outras duas cartas diferentes de mesmo valor
+			
+			//rank.is_pair(); // verifica se é um par
             
 			                       
 			Console.WriteLine("any key to exit");
